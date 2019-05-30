@@ -1,0 +1,10 @@
+#visor {
+   background-color: #bdffb4;
+   text-align: right;
+}
+.box{
+  height: 300px;
+  width: 300px;
+  margin-top: 10%
+  margin-left: 1px;
+}
